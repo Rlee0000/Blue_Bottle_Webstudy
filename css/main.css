@@ -31,6 +31,10 @@ html {
     margin: 5px;
   }
 
+  .descriptioon{
+    font-style: oblique;
+  }
+
   .component_sub{
     background-color: rgb(202, 202, 202);
     font-size: 100%;
@@ -178,7 +182,7 @@ html {
   font-weight: normal;
   font-size: 54%;
   background-color: rgb(255, 255, 255);
-  border: 1px solid black;
+  border: 1px solid rgb(0, 0, 0);
   width: 180px;
   height: 40px;
   margin-left: 9%;
